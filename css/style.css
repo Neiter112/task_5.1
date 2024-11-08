@@ -19,6 +19,27 @@ h1 {
     font-family: 'Calibri light' , Times, serif;
 }
 
-foter .links {
-    
+footer {
+    padding-top: 25px;
+    padding-bottom: 65px;
+    text-align: center;
+}
+
+footer .links {
+    margin-bottom: 55px;
+}
+
+footer .links > a {
+    color: #61D7A4;
+    padding: 0 25px;
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: .1rem;
+    text-decoration: dotted;
+    text-transform: uppercase;
+}
+
+.copyright {
+    color: rgb(100, 100, 100);
+    font-family: 'Calibri light' , Times, serif;
 }
